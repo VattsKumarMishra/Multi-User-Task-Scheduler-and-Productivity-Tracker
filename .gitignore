@@ -1,0 +1,17 @@
+# Compiled output
+out/
+
+# Runtime data files (auto-created when app runs)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
